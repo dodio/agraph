@@ -1,0 +1,19 @@
+{
+  "name": "agraph",
+  "version": "1.0.0",
+  "description": "a devlopment framework to devlope force layout graphs",
+  "main": "RelativeGraph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodio/agraph.git"
+  },
+  "author": "dodio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodio/agraph/issues"
+  },
+  "homepage": "https://github.com/dodio/agraph#readme"
+}
